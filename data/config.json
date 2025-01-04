@@ -1,5 +1,5 @@
 {
   "Version": 1,
-  "RulesConfigUrl": "https://raw.githubusercontent.com/jennifer-ross/nekobox-discord-proxy-rules/master/data/rules.json",
+  "RulesConfigUrl": "https://raw.githubusercontent.com/jennifer-ross/nekobox-discord-proxy-rules/refs/heads/master/data/rules.json",
   "DiscordDroverUrl": "https://github.com/hdrover/discord-drover/releases/download/v0.8/drover-v0.8.zip"
 }
